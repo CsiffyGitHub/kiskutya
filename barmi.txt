@@ -1,1 +1,3 @@
 Ez az első módosított git txt fáljom.
+
+Ez az első módosítás ami felkerül a GitHUB repositoty-ra.
